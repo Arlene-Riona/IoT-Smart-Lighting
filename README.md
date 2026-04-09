@@ -12,7 +12,7 @@ An intelligent lighting system built with Arduino Uno, PIR and LDR sensors that 
 
 | Dashboard | Circuit Setup |
 |---|---|
-| ![Dashboard](images/dashboard.png) | ![Circuit](images/circuit.png) |
+| ![Dashboard](images/dashbaord.jpeg) | ![Circuit](images/circuit.jpeg) |
 
 ---
 
